@@ -5,6 +5,13 @@
 <title>Tesla + Intel</title>
   <meta charset="utf-8" content="width=device-width, initial-scale=1">
   <style>
+    video#vid {
+ position: fixed; right: 0; bottom: 0;
+ min-width: 100%; min-height: 100%;
+ width: auto; height: auto; z-index: -100;
+ background-size: cover;
+ margin: 0 auto;
+}
     heart{
       color: red;
     }
@@ -81,14 +88,18 @@ text-
       
   </style>
   <header>
-   <h1 class="blink_text">Intel</h1>
+   <h1 class="blink_text">Intel + Tesla</h1>
 </header>
 </head>
 <body>
 
-  <video width="100%" autoplay controls="false" loop>
+  <--!<video width="100%" autoplay controls="false" loop>
     <source src="https://www.tesla.com/ns_videos/Model3_WebsiteHero_Master_D.mp4?20170801" type="video/mp4">
-    </video>
+    </video>-->
+  
+  <video autoplay loop id="vid">
+<source src="https://www.tesla.com/ns_videos/Model3_WebsiteHero_Master_D.mp4?20170801" type="video/mp4">
+</video>
   
   <br>
   <footer id="footer">

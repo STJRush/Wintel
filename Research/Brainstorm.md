@@ -16,7 +16,7 @@ It is rumored the Infotainment system includes Tesla's very own music streaming 
 
 
 
-JORDAN:
+# JORDAN:
 safety features:1
 convenience:2
 

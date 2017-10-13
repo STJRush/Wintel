@@ -5,6 +5,37 @@
 <title>Intel</title>
   <meta charset="utf-8" content="width=device-width, initial-scale=1">
   <style>
+  #nav {
+    position: absolute;
+    left: 0px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.5);
+    width: 100%;
+    text-align: center;
+}
+#nav ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+#nav ul li {
+    margin: 0;
+    padding: 0;
+    float:left;
+}
+#nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    color: #FFF;
+    text-align: center;
+    font-family: Georgia;
+    color: white;
+}
+#nav ul li a:hover {
+    color: rgb(108, 114, 124);
+}
+    
     video#vid {
  position: fixed; right: 0; bottom: 0;
  min-width: 100%; min-height: 100%;
@@ -91,6 +122,17 @@ text-
    
 </head>
 <body>
+  
+  <div id="nav">
+    <ul>
+        <li><a href="#">Home</a>
+        </li>
+        <li><a href="#">Images</a>
+        </li>
+        <li><a href="#">More Info</a>
+    </ul>
+</div>
+  
 <h1 class="blink_text">Intel + Tesla</h1><br>
   
   <p class="text"><br>Intel's History of Computing and Tesla's Renewable Energy and Transport Innovation<br>Combine to Create something Amazing!</p>

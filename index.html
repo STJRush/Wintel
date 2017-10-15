@@ -117,11 +117,21 @@ text-
      100% { opacity: 1.0; }
      }
     }
-      
-        li.dropdown {
-    display: inline-block;
+    
+    .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    font-family: Georgia;
 }
-
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: Georgia;
+}
 .dropdown-content {
     display: none;
     position: absolute;
@@ -129,22 +139,25 @@ text-
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    font-family: Georgia;
 }
-
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    text-align: left;
+    font-family: Georgia;
 }
-
 .dropdown-content a:hover {background-color: #f1f1f1}
-
 .dropdown:hover .dropdown-content {
     display: block;
+    font-family: Georgia;
 }
-    
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+    font-family: Georgia;
+}
+      
   </style>
    
 </head>
@@ -165,6 +178,14 @@ text-
 <h1 class="blink_text">Intel + Tesla</h1><br>
   
   <p class="text"><br>Intel's History of Computing and Tesla's Renewable Energy and Transport Innovation<br>Combine to Create something Amazing!</p>
+  
+  <div class="dropdown">
+  <button class="dropbtn">More Images</button>
+  <div class="dropdown-content">
+    <a href="Opaque.htnl">Images</a>
+    <a href="Slideshow.html">Gallery</a>
+  </div>
+</div>
   
   <footer>
     <p>COMING SOON</p>

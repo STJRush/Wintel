@@ -33,3 +33,5 @@ It lso has Wi-Fi and LTE internet connectivity being a type of 4G that delivers 
  they also contain 60/40 split folding rear seats which means that 60 to 40 percent of the seates in the car can be folded to create mors space
 
 Fot the standered interior there is a 15" touchscreen display within an all new infotament system made by intel.Dual zone climate contol system  this typically features two temperature controls, one on each side of the control unit, so the driver and the passenger can create their own microclimates.It has a FM or Internet streaming radio which is an audio service transmitted via the Internet. Broadcasting on the Internet is usually referred to as webcasting since it is not transmitted broadly through wireless means.they have Textile seating which come in many verities of colours such as black. white, cream etc.. and some two tone aswell. It also has a center console with open storage and two USB ports which help when you need to charge your phone(Lets be honest we all need this)
+
+https://fsmedia.imgix.net/ab/6c/22/92/0298/4a4a/a1af/16ec89d66e05/do-a-twirl-for-us.gif

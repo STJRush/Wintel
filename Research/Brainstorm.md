@@ -1,7 +1,3 @@
-# Brainstorm @ Wintel
-please edit me!
-
-
 # Cian
 Information about the Model 3's Infotainment System:
 The Infotainment system has basic options for the car like your AC settings, heating system, how many miles per hour you're driving and the battery percentage

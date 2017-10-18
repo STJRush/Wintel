@@ -9,6 +9,8 @@ It is rumored the Infotainment system includes Tesla's very own music streaming 
 
 Animations showcasing the Infotainment System
 
+(change image url)
+
 https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiXxtnB7_nWAhXmLsAKHV8tDOYQjRwIBw&url=https%3A%2F%2Fhonda-tech.com%2Fforums%2Fgeneral-discussion-debate-40%2Ftesla-model-3-v-chevy-bolt-ev-3304044%2Fpage5%2F&psig=AOvVaw08bOsh654laLhlZxIC_R8f&ust=1508405765271917
 
 https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjku6fs8PnWAhVUOMAKHX_oASQQjRwIBw&url=https%3A%2F%2Ftechcrunch.com%2F2015%2F10%2F14%2Fwatch-this-self-steering-tesla-model-s-drive-itself-and-us-down-the-highway%2F&psig=AOvVaw2HiZHsc8EPnnJmCR-SQ2tT&ust=1508406124884647
@@ -19,9 +21,9 @@ https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&
 
 
 # Jordan:
-Safety Features:1
-Convenience:2
-Standard Interior:3
+Safety Features:
+Convenience:
+Standard Interior:
 
 Tesla moedel 3 has automatic emergency braking incase the driver becomes distracted
  or is a driver fall asleep the car will automatically break before a collision can occur and has collision avoidance

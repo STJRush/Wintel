@@ -1,4 +1,5 @@
-# Cian
+# Cian:
+
 Information about the Model 3's Infotainment System:
 The Infotainment system has basic options for the car like your AC settings, heating system, how many miles per hour you're driving and the battery percentage
 
@@ -7,18 +8,9 @@ It has  "FM/Internet streaming audio" and "Bluetooth hands free calling and medi
 But Tesla has confirmed to Roadshow (another news outlet) that any missing functionalities at launch would be added in a later update
 It is rumored the Infotainment system includes Tesla's very own music streaming service named "TTunes".
 
-Animations showcasing the Infotainment System
-
-(change image url)
-
-https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiXxtnB7_nWAhXmLsAKHV8tDOYQjRwIBw&url=https%3A%2F%2Fhonda-tech.com%2Fforums%2Fgeneral-discussion-debate-40%2Ftesla-model-3-v-chevy-bolt-ev-3304044%2Fpage5%2F&psig=AOvVaw08bOsh654laLhlZxIC_R8f&ust=1508405765271917
-
-https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjku6fs8PnWAhVUOMAKHX_oASQQjRwIBw&url=https%3A%2F%2Ftechcrunch.com%2F2015%2F10%2F14%2Fwatch-this-self-steering-tesla-model-s-drive-itself-and-us-down-the-highway%2F&psig=AOvVaw2HiZHsc8EPnnJmCR-SQ2tT&ust=1508406124884647
-
+Animations showcasing the Infotainment System:
 
 https://s-media-cache-ak0.pinimg.com/originals/1b/18/4a/1b184a88d8d0b8cf29b5e3f1547b8d39.gif
-
-
 
 # Jordan:
 Safety Features:
@@ -27,7 +19,7 @@ Standard Interior:
 
 Tesla moedel 3 has automatic emergency braking incase the driver becomes distracted
  or is a driver fall asleep the car will automatically break before a collision can occur and has collision avoidance
- incase you have a slow reaction time. It has 8 air bags so if a crash does occurred
+ incase you have a slow reaction time. It has 8 air bags so if a crash occurrs
  you will be protected from the impact.It also has electronic stability and traction control wich means it improves a vehicle's stability by detecting and reducing loss of traction or skidding.
  
  The tesla mode 3 has a 15″ touchscreen with onboard maps and navigational system, which is now provided by Intel and has new and imptroved design
